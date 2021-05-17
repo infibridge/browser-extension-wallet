@@ -1,3 +1,7 @@
+# Redirect Notice
+
+This repository has moved to https://github.com/infibridge/infibridge-extension-wallet
+
 # browser-extension-wallet
 Infibridge is a browser extension wallet for Celo
 
